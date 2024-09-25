@@ -12,7 +12,7 @@
     "mern",
     "chat-app"
   ],
-  "author": "Piyush Agarwal",
+  "author": "Utsav Singla",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
